@@ -10,6 +10,7 @@ gem 'haml'
 gem 'haml-rails'
 gem 'heroku'
 gem 'pg'
+gem 'taps'
 # Use unicorn as the web server
 # gem 'unicorn'
 
