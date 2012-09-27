@@ -9,6 +9,7 @@ gem 'sqlite3', '1.3.6',:group => :development
 gem 'haml'
 gem 'haml-rails'
 gem 'heroku'
+gem 'pg'
 # Use unicorn as the web server
 # gem 'unicorn'
 
